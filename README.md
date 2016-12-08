@@ -1,4 +1,4 @@
-# CodeIgniter-REST Client
+﻿# CodeIgniter-REST Client
 
 CodeIgniter-REST Client is a CodeIgniter library which makes it easy to do use REST services/API's such as Twitter, Facebook and Flickr, whether they are public or hidden behind HTTP Basic/Digest.  The examples below are VERY simple ones and more can much more can be done with it. 
 
@@ -9,7 +9,7 @@ Please take a look at the code to see about things like api_key() and other post
 1. PHP 5.1+
 2. CodeIgniter 2.0.0+
 3. cURL
-4. CodeIgniter Curl library: http://getsparks.org/packages/curl/show
+4. Curl library: http://getsparks.org/packages/curl/show
 
 ## Usage
 
